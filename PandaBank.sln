@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda-Bank.Test", "Panda-Bank.Test\Panda-Bank.Test.csproj", "{24C19EAE-F558-4B75-8CC1-8B93D17E399A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaBank.Test", "PandaBank.Test\PandaBank.Test.csproj", "{1221FA22-50BC-4C63-821E-DC0FDAEC7342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{6D0C622C-0B38-4B95-94B7-998503FF7BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0C622C-0B38-4B95-94B7-998503FF7BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0C622C-0B38-4B95-94B7-998503FF7BAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24C19EAE-F558-4B75-8CC1-8B93D17E399A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24C19EAE-F558-4B75-8CC1-8B93D17E399A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24C19EAE-F558-4B75-8CC1-8B93D17E399A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24C19EAE-F558-4B75-8CC1-8B93D17E399A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1221FA22-50BC-4C63-821E-DC0FDAEC7342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1221FA22-50BC-4C63-821E-DC0FDAEC7342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1221FA22-50BC-4C63-821E-DC0FDAEC7342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1221FA22-50BC-4C63-821E-DC0FDAEC7342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace PandaBank
 {
-    partial class Customer : LoginUser
+    public partial class Customer : LoginUser
     {
         List<string> Transactions = new List<string>();
 

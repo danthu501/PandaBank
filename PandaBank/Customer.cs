@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace PandaBank
 {
-    partial class Customer : LoginUser
+    public partial class Customer : LoginUser
     {
         public List<Accounts> ListOfAccounts = new List<Accounts>();
 

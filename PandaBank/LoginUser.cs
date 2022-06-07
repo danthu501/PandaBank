@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace PandaBank
 {
-    class LoginUser
+    public class LoginUser
     {
         public string UserName { get; set; }
 

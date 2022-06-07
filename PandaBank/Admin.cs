@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PandaBank
 {
-    class Admin : LoginUser
+    public class Admin : LoginUser
     {
         #region Customers & BankAccounts
         Customer U1 = new Customer("Hanna", "0000");
