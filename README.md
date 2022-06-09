@@ -1,4 +1,4 @@
-### Ta ut pengar
+### Växelkursberäkningar
 - Kan bli fel med negativa tal då du istället för att ta ut pengar får in pengar på kontot.
 - Pengarna dras från fel konto.
 - input inte lika med output.
