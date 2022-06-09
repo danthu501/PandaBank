@@ -8,8 +8,8 @@ Jag har valt metoderna efter vilka jag lyckats skriva test till dem.
 - Kontrollerar så att kontot läggs till hos användaren.
 - Kontrollerar att det är rätt namn och saldo. 
 
-### Test av konstruktorn i cusotmer klassen
-- Kontrollerar att kunden verkligen skapas och sparar. 
+### Test av konstruktorn i customer klassen
+- Kontrollerar att kunden verkligen skapas och sparas. 
 
 
 
