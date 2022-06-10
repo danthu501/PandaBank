@@ -5,7 +5,7 @@ Jag har valt metoderna efter vilka jag lyckats skriva test till dem.
 
 ### Växelkursberäkningar
 - Kontrollerar i fall växelkursen stämmer. 
-- Testa att skicka in negativa värden.
+
 
 ### Test av AddAccount metoden
 - Kontrollerar så att kontot läggs till hos användaren.
