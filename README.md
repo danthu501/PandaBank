@@ -4,7 +4,7 @@ Det jag tänkte testa var om det gick att skicka in negativa värden och vad som
 Jag har valt metoderna efter vilka jag lyckats skriva test till dem. 
 
 ### Växelkursberäkningar
-- Kontrollerar i fall växelkursen stämmer. 
+- Kontrollerar i fall metoden skcikar rätt växelkurs.
 
 
 ### Test av AddAccount metoden
